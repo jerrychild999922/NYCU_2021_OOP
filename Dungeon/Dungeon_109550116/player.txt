@@ -1,0 +1,15 @@
+crab
+Tank
+100
+86
+40
+8
+3
+2
+1
+Old Sword
+no skill
+0
+20
+0
+1
