@@ -1,5 +1,6 @@
 ## Implementation Strategy
-Please refers to [109550116_Final.pdf]([https://github.com/jerrychild999922/ML_final/blob/main/109550116_Final.pdf])
+Please refers to [report_109550116.pdf](https://github.com/jerrychild999922/NYCU_2021_OOP/blob/main/Dungeon/report_109550116.pdf)
+
 
 ## Reproducing Result
 1. check requirements.txt
